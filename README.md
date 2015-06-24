@@ -1,3 +1,3 @@
-# dotfile
-* .vimrc
-* .screenrc
+# my dotfile
+* vimrc
+* screenrc
